@@ -2,7 +2,7 @@
 Make Latex from your Figures Folder
 
 
-1) Execute /dist/LatexPresentationFromFigures.jar
+1) Execute ___/dist/LatexPresentationFromFigures.jar___
 
 2) Fill in the fields
 
