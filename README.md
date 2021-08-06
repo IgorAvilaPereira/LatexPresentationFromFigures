@@ -1,6 +1,6 @@
 # Latex Presentation From Figures
 
-Make Latex Presentation from your Figures Folders:
+Build Latex Presentation from your Figures Folders:
 
 1) Execute ___/dist/LatexPresentationFromFigures.jar___
 
